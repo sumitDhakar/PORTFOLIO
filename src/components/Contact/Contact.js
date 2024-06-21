@@ -19,7 +19,7 @@ function Contact() {
     // Send formData to a method or an API
     console.log(templateParams);
     // Example: sendFormData(formData);
-    emailjs.send('servicsse_oj2drs7h', 'template_e47jsu3ts', templateParams, 'sazsP7rl-r_FXRlyTL')
+    emailjs.send('service_4kaz7ap', 'template_bq35gwe', templateParams, 'tDmgRZJOLhHAe66N9')
     .then((response) => {
       console.log('SUCCESS!', response.status, response.text);
       alert('Request sent successfully!');
