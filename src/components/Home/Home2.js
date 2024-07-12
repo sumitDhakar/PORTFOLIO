@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C,Java, Angular,Html,Css.Typescript,MySql,Postman,Swagger, Spring Framework,Microservices ,Sprimg security </b>
+                <b className="purple"> C,Java, Angular,Html,Css.Typescript,MySql,Postman,Swagger, Spring Framework,Microservices ,Spring security </b>
               </i>
               <br />
               <br />

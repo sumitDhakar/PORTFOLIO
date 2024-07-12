@@ -17,7 +17,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={"https://wedigitalindia.com/uploads/category/4a71386405f67a61db325dd65a631523.jpg"}
+              imgPath={"https://res.cloudinary.com/dizz5tuug/image/upload/v1720784757/Aig/p/th_1_qdy4lz.jpg"}
               isBlog={false}
               title="CMS"
               description="I led the development of the Company Management System, leveraging Java and Spring Boot for backend functionalities, while employing Angular for frontend interface Utilized MySQL for database management. Key responsibilities included full-stack development, ensuring seamless integration of frontend and backend components to meet the needs of Admins, Employees, and Clients."
@@ -28,7 +28,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={"https://img.freepik.com/free-photo/stethoscope-blue-background_23-2147612257.jpg?t=st=1716539463~exp=1716543063~hmac=143d9e691d4b3bc64b3439b39769e48800e26b3dde0748cb7843ad93aa89da0d&w=996"}
+              imgPath={"https://res.cloudinary.com/dizz5tuug/image/upload/v1720784963/Aig/p/th_teopwo.jpg"}
               isBlog={false}
               title="CICO (CHECK-IN-CHECK-OUT)"
               description="A comprehensive student management system designed for efficient administration of student activities such as syllabus management, student leaderboards, tests, and more. It features a backend developed in Java for robust data handling and logic implementation, coupled with a sleek Angular frontend for intuitive user interaction and seamless navigation."
